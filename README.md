@@ -1,21 +1,10 @@
-# ATF — Adaptive Token Fusion for Long-Context Retrieval
+# Harborlight Research Lab — Paper Codebase
 
-Official code repository for the paper **Adaptive Token Fusion for Long-Context Retrieval**
-(Harborlight Research Lab, P-2201).
+This repository holds the code released alongside the lab's papers.
+Each paper's code lives in its own folder:
 
-## Status
+- `atf/` — Adaptive Token Fusion for Long-Context Retrieval (P-2201)
+- `gdrl/` — Graph Distillation for Low-Resource Relational Learning (P-2202)
+- `cma/` — Cross-Modal Anchoring for Sparse Vision-Language Alignment (P-2203)
 
-**Status: Released** — v1.2.0 (public). This repository contains the code
-used for the experiments reported in the paper.
-
-## Layout
-
-- `src/` — model and data pipeline
-- `experiments/` — training and evaluation entry points
-- `notebooks/` — analysis notebooks
-- `results/` — reported numbers
-- `tests/` — smoke tests
-
-## Citation
-
-See `CITATION.cff`.
+Every folder follows the same layout.
