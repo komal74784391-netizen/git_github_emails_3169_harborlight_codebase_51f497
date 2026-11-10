@@ -1,1 +1,0 @@
-# model scaffold: implementation pending
