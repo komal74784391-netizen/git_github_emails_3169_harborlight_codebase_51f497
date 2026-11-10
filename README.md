@@ -1,2 +1,21 @@
-# git_github_emails_3169_harborlight_atf_51f497
-Code repository for the Harborlight deliverable: ATF (Adaptive Token Fusion for Long-Context Retrieval)
+# ATF — Adaptive Token Fusion for Long-Context Retrieval
+
+Official code repository for the paper **Adaptive Token Fusion for Long-Context Retrieval**
+(Harborlight Research Lab, P-2201).
+
+## Status
+
+**Status: Released** — v1.2.0 (public). This repository contains the code
+used for the experiments reported in the paper.
+
+## Layout
+
+- `src/` — model and data pipeline
+- `experiments/` — training and evaluation entry points
+- `notebooks/` — analysis notebooks
+- `results/` — reported numbers
+- `tests/` — smoke tests
+
+## Citation
+
+See `CITATION.cff`.
